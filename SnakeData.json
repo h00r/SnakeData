@@ -1,19 +1,10 @@
 [
 {
-    "username":"Arabin Sand Viber",
-     "email":"Venom",
-     "url":"https://i.pinimg.com/originals/35/f4/8c/35f48c490e4047d0a077e9fab51551f6.jpg",
-     "wikUrl":"https://raw.githubusercontent.com/h00r/SnakeData/main/COMP322Assi.jpg",
-      "ranking":"Unlikle to cose deth "
-},
-    {
-    "username":"Arabin Sand Viber",
-     "email":"Venom",
-     "url":"https://i.pinimg.com/originals/35/f4/8c/35f48c490e4047d0a077e9fab51551f6.jpg",
+    "snakeName":"Arabin Sand Viber",
+     "snakeVenom":"Venom",
+     "imageUrl":"https://i.pinimg.com/originals/35/f4/8c/35f48c490e4047d0a077e9fab51551f6.jpg",
      "wikUrl":"https://raw.githubusercontent.com/h00r/SnakeData/main/COMP322Assi.jpg",
       "ranking":"Unlikle to cose deth "
 }
-
-
 
 ]
